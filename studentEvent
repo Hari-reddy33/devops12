@@ -71,7 +71,7 @@
                 </div>
 
                 <div class="mb-3">
-                    <label for="event" class="form-label">Select Event</label>
+                    <label for="event" class="form-label">Select any Event</label>
                     <select class="form-select" id="event" required>
                         <option value="" disabled selected>Select an event</option>
                         <option value="event1">CCNA</option>
